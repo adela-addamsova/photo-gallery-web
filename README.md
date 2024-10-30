@@ -1,4 +1,5 @@
-# photoGalleryWeb
+# photo-gallery-web
 
-Web page to show my photography.
-Currently implementing more php and js code to make it less static.
+Simple web page for presenting pictures.
+It'based on PHP and JavaScript and SQL database will be implemented soon.
+
