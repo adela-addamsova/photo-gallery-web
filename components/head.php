@@ -1,8 +1,10 @@
 <?php
-require "./includes/classes/dbh.class.php";
-require "./includes/classes/page.class.php";
-require "./includes/classes/icon.class.php";
-require "./includes/classes/sliderItem.class.php";
+require "./includes/classes/databaseConnection.class.php";
+require_once "./includes/classes/page.class.php";
+require_once "./includes/classes/icon.class.php";
+require_once "./includes/classes/imageCategory.class.php";
+require_once "./includes/classes/lastAddedSlider.class.php";
+
 
 $pageId = "home";
 
